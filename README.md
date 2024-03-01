@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Sonya (alias jorrit04) ☀
 
 
 I'm a beginner and study Front-end Developement. 😸
