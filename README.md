@@ -3,7 +3,10 @@
 
 I'm an artist and study Front-end Developement. 😸
 
-<h2>Skills</h2>
+<h2 align="center">Skills</h2>
 <br>
-<a href="https://skillicons.dev"></a>
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
+  </a>
+</p>
