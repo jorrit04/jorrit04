@@ -1,7 +1,7 @@
-### Hello, I'm Sonya (alias jorrit04) ☀
+### Hello, I'm Sonya ☀
 
 
-what happens here, stays here 😸<br><br>
+i do thigs sometimes 😸<br><br>
 <a href="https://jorrit04portfolio.carrd.co">Here's link to my art portfolio!</a>
 
 <h2 align="center">Skills</h2>
